@@ -9,11 +9,11 @@ h1 {
 img {
   width: 200px;
   height: 500px;
-  border: 3px solid viridian;
+  border: 3px solid red;
   
   /*
   border-style: solid;
   border-size: 3px;
-  border-color: viridian
+  border-color: red
   */
 }
